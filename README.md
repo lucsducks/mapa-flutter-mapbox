@@ -1,16 +1,10 @@
-# mapas
+Mapa App
 
-A new Flutter project.
+Mapa App es una aplicación Flutter que muestra un mapa interactivo con la ubicación actual del usuario y varios puntos de estacionamiento cercanos. La aplicación utiliza Mapbox para los mapas y Geolocator para obtener la ubicación actual del usuario.
 
-## Getting Started
+Características
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	•	Muestra la ubicación actual del usuario en el mapa.
+	•	Muestra ubicaciones de estacionamiento predefinidas en el mapa.
+	•	Los íconos de los marcadores se mantienen en la misma orientación sin importar la rotación del mapa.
+	•	Animación de carga mientras se obtiene la ubicación del usuario.
